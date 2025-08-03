@@ -39,3 +39,10 @@ Madem Pavithra Devi
 B.Tech CSE (2021–2025)
 Avanthi’s St. Theressa Institute of Engineering and Technology
 📧 madempavithradevi29@gmail.com
+
+
+---
+
+## 📄 Note
+
+This project was developed as part of my final year academic curriculum and is meant for educational and demonstration purposes only.
